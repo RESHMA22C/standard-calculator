@@ -1,3 +1,4 @@
+
 # Design of a Standard Calculator
 
 ## AIM:
@@ -30,7 +31,7 @@ validate the html and css cod
 Publish the website in the given URL.
 
 ## PROGRAM :
-
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -256,7 +257,7 @@ body {
   font-size: 2.5rem;
 }
 </style>
-
+```
 ## OUTPUT:
 
 ![Screenshot (124)](https://github.com/RESHMA22C/standard-calculator/assets/147474426/3d302843-dd37-456c-9eb9-dc51c191cd42)
