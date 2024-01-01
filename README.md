@@ -265,5 +265,5 @@ body {
 
 ## Result:
 
-the standard calculator has been created succesfully.
+The standard calculator has been created succesfully.
 
